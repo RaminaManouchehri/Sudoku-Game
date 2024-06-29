@@ -1,6 +1,8 @@
 """
 -------------------------------------------------------
-[Sudoku Game]
+A Sudoku game featuring a graphical user interface created 
+with Pygame allowing players to solve puzzles of varying difficulty
+levels with options for user input and automated solving.
 -------------------------------------------------------
 Author:  Ramina Manouchehri
 ID:      169042249
@@ -9,8 +11,6 @@ __updated__ = "2023-11-14"
 -------------------------------------------------------
 """
 # Imports
-
-# Constants
 # GUI.py
 import pygame
 import time
