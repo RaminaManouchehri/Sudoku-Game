@@ -1,6 +1,8 @@
 """
 -------------------------------------------------------
-[program description]
+ Simulates a Rock, Paper, Scissors game,
+ allowing the user to play against the computer with 
+ randomized choices and providing the outcome of each round.
 -------------------------------------------------------
 Author:  Ramina Manouchehri
 ID:      169042249
@@ -9,9 +11,6 @@ __updated__ = "2023-11-14"
 -------------------------------------------------------
 """
 # Imports
-
-# Constants
-
 import random
 
 def play():
